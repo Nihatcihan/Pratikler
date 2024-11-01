@@ -1,0 +1,1 @@
+## while ve foreach calisildi
